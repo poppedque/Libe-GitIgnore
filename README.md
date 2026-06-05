@@ -9,3 +9,4 @@ And for the build go to [build](https://github.com/poppedque/Libe-GitIgnore/tree
 Create a pull request and we will look at it!
 #### Notice
 This is not trying to be a **world wide tool**, I just made because I wanted to share it.
+I just started coding and this is my first project, **enjoy**.
