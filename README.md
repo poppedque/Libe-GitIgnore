@@ -8,4 +8,4 @@ And for the build go to [build](https://github.com/poppedque/Libe-GitIgnore/tree
 ### contribute
 Create a pull request and we will look at it!
 #### Notice
-Ignore **files.html** thats only there for files
+This is not trying to be a **world wide tool**, I just made because I wanted to share it.
