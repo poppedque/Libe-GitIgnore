@@ -1,0 +1,2 @@
+# Libe-GitIgnore
+auto .gitignore.
