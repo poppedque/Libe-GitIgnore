@@ -2,3 +2,5 @@ name : Libe
 version : 0.0.1
 builder : Poppedque
 status : Under Development
+build: true
+build-file: build/build.cs
